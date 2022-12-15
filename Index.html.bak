@@ -1,0 +1,100 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <link rel="stylesheet" href="CSS/Style.css">
+    <meta charset="UTF-8">
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Al-Ghaili Corporation</title>
+
+<body>
+    <header><h1> Welcome to Our Website</h1></header>
+    <nav >
+        <ul>
+            <li><a href="#">Home</a></li>
+            <li><a href="#"> Services</a></li>
+            <li><a href="#"> About</a></li>
+            <li><a href="#"> Contact</a></li>
+        </ul>
+    </nav>
+
+    <main>
+        <h1>What is Al-Ghaili Corporation?</h1>
+        <h2>Al-Ghaili Corporation is a nonprofit company that seeks to serve the hummanity at everything that is related to technology 
+        through presenting Information about so many programming languages and the function and feild of everyone of them ,that customers and 
+       people who are interested in programming will not be deceived by any one. We also provide services in lower prices and more relaiable and 
+       and secure systems and websites made by a shift of the most professional programmers in the world.</h2>
+    </main>
+
+        <div class="images"> 
+
+        </div>
+
+    <p class="vision"> <h1>Our vision</h1>We believe that everything in this world should be automated in the easiest ways
+     to facilitate interaction between people and technology ,because technology was mainaly designed to facilitate many 
+    aspects of our lives and that is why Al-Ghaili Corporation was founded.</p>
+
+        <p>
+            <h1>The most modern programming languages we use and their functionality :</h1>
+           <ol>
+                <li>PHYON</li>
+                <p>
+                    Python can be regarded as the future of programming languages. 
+                    As per the latest statistics, Python is the main coding language for around 80% of developers. 
+                    The presence of extensive libraries in Python facilitates artificial intelligence, data science, and machine learning processes. 
+                    Currently, Python is trending and can be regarded as the king of programming languages. 
+                    It is also an absolutely interesting language for beginners and at Geeksforgeeks we have curated a special Python Programming 
+                    Foundation -Self-Paced course where one can learn all the basics in one place.
+                     So learning this programming language in 2022 promises you success and growth.
+                     <br>It is one of the most lucrative languages that offers amazing features like: <br>
+                    <ul>
+                        <li>Easy to learn and code.</li>
+                        <li>Extensive libraries and frameworks that support a plethora of applications.</li>
+                        <li>Incorporated the variants of Java and C like CPython, Jython, etc.</li>
+                        <li>GUI support.</li>
+                        <li>Companies working on Python: Intel, Facebook, Spotify, Netflix, etc. </li>
+                    </ul>
+                    <!--JavaSctipt Part-->
+                    </p>
+
+                     <li>JavaScript</li>
+                     <p>JavaScript is one of the worlds
+                        most popular programming languages on the web. 
+                        As per the survey, more than 97 percent of the websites use JavaScript on the client-side of the webpage.</p>
+                       <ul>
+                            <li>It has a well-organized codebase that provides enhanced productivity and readability. </li>
+                            <li>Easy to learn and is highly in demand. </li>
+                            <li>Platform independence and greater control of the browser. </li>
+                            <li>Provide user input validation features.</li>
+                       </ul> 
+                       <!--PHP Part-->
+                       <li>PHP</li>
+                       <p>PHP is one of the general-purpose scripting languages that will continue to hold its 
+                           importance in the upcoming years. It is among the first server-side language that can be embedded with HTML
+                            to add functionality to web pages. Due to the increasing online trend, 
+                            PHP developers are in high demand. Some of the astonishing features are:
+                        </p>
+                        <ul>
+                            <li>Simple and easy to learn.</li>
+                            <li>Faster than other scripting languages</li>
+                            <li>Highly secure to prevent threats and attacks.</li>
+                            <li>Amazing websites like Facebook, Yahoo, and Wikipedia run on PHP.</li>
+                        </ul>
+                        <!--C#-->
+                        <li>C#</li>
+                        <P>C# is a programming language that runs on the .NET framework and is developed by Microsoft in 2000. 
+                         It is effective in making desktop applications and games. 
+                         As per the survey, 34% of the top mobile games are made using C#. 
+                         It is a well-designed language and is highly in demand globally.</P>
+                         
+                         <ul>
+                             <li>Simple to learn and understand.</li>
+                             <li>It is fully integrated with .NET libraries.</li>
+                             <li>The top companies working on C# are Microsoft, Stack Overflow, Accenture, and Alibaba Travels.</li>
+                         </ul>
+                     </ol>
+            
+        </p>
+
+</body>
+</html>
